@@ -6,7 +6,7 @@ toc: true
 
 姓名：郝江涛
 
-职业：演员
+职业：学生
 
 英文名：David Wang
 
